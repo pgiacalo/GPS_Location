@@ -1,7 +1,9 @@
 # GPS_Location
-- Spreadsheet <b>GPS\_UBLOX\_NEO\_M8N\_Jitter\_Free\_Frequencies.csv</b> contains a list of all the frequencies that a UBLOX GPS unit can output without jitter. 
+- Spreadsheet <b>GPS\_UBLOX\_NEO\_M8N\_Jitter\_Free\_Frequencies.csv </b> contains a list of all the frequencies that a UBLOX GPS unit can output without jitter. 
 
->> The spreadsheet contains the frequencies that divide evenly into the GPS Unit's 24 MHz oscillator frequency. 
+> The spreadsheet contains the frequencies that divide evenly into the GPS Unit's 24 MHz oscillator frequency. 
+
+> For a full explanation, see: <br> https://www.youtube.com/watch?v=M6SmdqMA-Dg
 
 - The output frequency of UBLOX GPS units can be adjusted using UBLOX's <b>U-Center</b> desktop application (for Microsoft Windows). Download it from their website, launch the application and attach the GPS unit to your PC (via USB).
 
